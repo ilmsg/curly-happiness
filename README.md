@@ -1,0 +1,2 @@
+# curly-happiness
+ecto associations
